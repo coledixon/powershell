@@ -1,6 +1,6 @@
 # activate Windows instance
-# each line ran on new PS line'
 
+## each line ran on new PS line
 $computer = gc env:computername # will set to local computer name
 
 $key = "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX" # Windows activation key
